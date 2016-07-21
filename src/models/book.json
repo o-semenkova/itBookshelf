@@ -1,0 +1,25 @@
+ {
+    "id" : "0",
+    "name" : "The Lightning Thief",
+    "categories" : [1,2,3],
+    "authors" : [1, 2],
+    "year" : "01/01/2000",
+    "publisher": 1,
+    "summary" : "some long annotation",
+    "lang": 1,
+    "isbn": "978-1-11-092282-5",
+    "series" : "Percy Jackson and the Olympians",
+    "genres" : [1, 10, 11],
+    "keywords" : [1, 2, 3, 4, 5],
+    "pages" : 384,
+    "cover" : "/path/to/img.png",
+    "rating": {
+              "internal" : 8,
+              "livelib" : 3,
+              "goodreads" : 4
+    },
+    "reviews" : [1, 2, 3, 4, 5],
+    "quotes" : [1, 2, 3, 4],
+    "notes" : [1, 2, 3, 4, 5],
+    "history" : [1, 2, 3]
+  }
